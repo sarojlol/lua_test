@@ -1,2 +1,2 @@
 print("bruh")
-print("bru")
+print("bruhhhh")
